@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@600&family=Roboto:wght@300;400;500;700&display=swap');
+// lllllllllll
+@import './variables_fonts';
+@import './header';
+@import './sections';
+@import './footer';
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1117px;
+    margin: 0 auto;
+}
